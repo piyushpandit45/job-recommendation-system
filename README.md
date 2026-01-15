@@ -3,6 +3,8 @@
 Job Recommendation System using NLP
 
 🔹Project Structure 
+
+
 <img width="318" height="273" alt="image" src="https://github.com/user-attachments/assets/4f3f23e6-d5dc-49bd-ab25-e7bea1579fa5" />
 
 
